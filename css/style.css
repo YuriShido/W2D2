@@ -17,5 +17,7 @@ h1 {
 }
 
 .big-container 
-  {background-color: yellow;
+  {
+    border: solid;
+    border-color:black;
 }
